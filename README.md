@@ -1,2 +1,4 @@
 # Enlivl-Browser
-This Browser is powered by Microsoft Edge.
+**Why choose Enlivl Browser?**
+
+Enlivl Browser is a browser maked in Visual Studio 2026. This browser is powered by Microsoft Edge.
